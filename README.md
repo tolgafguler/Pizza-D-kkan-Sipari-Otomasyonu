@@ -1,1 +1,1 @@
-# Pizza-D-kkan-Sipari-Otomasyonu
+# Pizza Dukkani Siparis Otomasyonu
